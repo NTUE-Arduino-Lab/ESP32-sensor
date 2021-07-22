@@ -1,4 +1,4 @@
-# Librsries
+# Libraries
 - [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
 - [Adafruit MLX90614 Library](https://github.com/adafruit/Adafruit-MLX90614-Library)
